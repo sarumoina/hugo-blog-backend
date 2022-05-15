@@ -1,9 +1,5 @@
 
-rm -r -f /home/i/srv/hugo-blog-output
-
 hugo
-
-
 
 cd /home/i/srv/hugo-blog-output
 git add .
