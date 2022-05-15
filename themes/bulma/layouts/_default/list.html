@@ -1,6 +1,6 @@
 {{ define "main" }}
 <span class="is-size-5 title">Collection: {{ .Title }}</span>
-{{ range.Data.Pages }}
+{{ range sort .Data.Pages "Name" }}
 
 <ul>
     <li class="mt-5">

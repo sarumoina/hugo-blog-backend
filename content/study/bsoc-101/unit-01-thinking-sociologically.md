@@ -116,6 +116,8 @@ In case of sociological subject invovled with history, the fact checking of hist
 
 Since there are different social system with different structure and complexity, while comparing them, one has to keep in mind that there should be an approached with unbiased nature as anything other than unbiased perspective will result in distorted results. 
 
+{{< ref "unit-01-thinking-sociologically-and.md" >}}
+
 ----
 
 <span class="tag is-medium is-primary is-light">[Download IGNOU Unit 01 study material](\assets\study\bsoc-101\unit-1.pdf)</span>
@@ -128,5 +130,5 @@ _Footnotes:_
 
 [^3]: Codifying social practices amounts to embarking on a process of transforming practical knowledge—knowing in action—into a message that can be processed as information
 
-#### Under construction
+
 
