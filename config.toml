@@ -1,4 +1,4 @@
-baseURL = 'https://blog.endr.in/'
+baseURL = 'https://hugo-blog.endr.in/'
 languageCode = 'en-us'
 title = 'endr.in'
 
