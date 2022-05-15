@@ -5,9 +5,9 @@
         <section class="section">
             <div class="container content">
                 {{- partial "header.html" . -}}
-            <div id="content has-text-justified">
+            <div id="content">
                 <div class="columns">
-                    <div class="column is-9">
+                    <div class="column is-9 has-text-justified">
                         {{- block "main" . }}{{- end }}
                     </div>
                     <div class="column is-3">
