@@ -1,18 +1,12 @@
 {{ define "main" }}
-<span class="title is-size-5">Categories:</span>
 
-<ul>
+
+
 {{ range .Pages.ByTitle }}
 
-
-
-    <li class="mt-5">
-        <span class="is-size-5"><a class="is-size-5" href="{{ .RelPermalink }}">{{ .Title }}</a></span>
-        <p></p>
-    </li>
-
+    <h5 class="mt-4"><a class="title has-text-link is-size-5" href="{{ .RelPermalink }}">{{ .Title }}</a></h5><p>{{ .Summary }}</p><hr />
 
 {{ end }}
 
-</ul>
+
 {{ end }}
