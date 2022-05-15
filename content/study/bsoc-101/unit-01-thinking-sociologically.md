@@ -1,6 +1,6 @@
 ---
 title: "BSOC-101: Unit 01 Thinking Sociologically"
-date: 2022-05-14T17:07:08+05:30
+date: 2022-05-04
 draft: false
 tags: ["study", "bsoc-101"]
 ---
