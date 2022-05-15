@@ -1,6 +1,8 @@
 
 hugo
 
+rm -r -f /home/i/srv/hugo-blog-output
+
 cd /home/i/srv/hugo-blog-output
 git add .
 git commit -m "automated upload"
