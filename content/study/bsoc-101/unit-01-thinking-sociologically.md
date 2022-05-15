@@ -29,7 +29,7 @@ Mills (1959) concept of “**abstracted empiricism**[^1]” posits that **empiri
 
 **Mills** work may hold true only for US and western countries. What is important is that in the abstracted empirical style, what is needed to be studied has not been given consideration, and the emphasis has been on method rather than content of study and also its relevance for being studied.
 
-The [**Abstracted empiricist**](/study/reference/abstract-empiricism) is more concerned with the philosophy of science, the Scientific Method, rather than what he studies is all about. 
+The [**Abstracted empiricist**]({{< ref "abstract-empiricism.md" >}}) is more concerned with the philosophy of science, the Scientific Method, rather than what he studies is all about. 
 
 **Paul F. Lazersfeld** has explained how abstracted empiricism can be used as a style of work and regards the “**sociologist as the methodologist of all social sciences**”. Thus empiricism becomes the hallmark of sociology as compared to philosophy or epistemology. Rather than thinking about why things happen, sociologists try to focus on what is happening and how it is happening.
 
@@ -116,7 +116,7 @@ In case of sociological subject invovled with history, the fact checking of hist
 
 Since there are different social system with different structure and complexity, while comparing them, one has to keep in mind that there should be an approached with unbiased nature as anything other than unbiased perspective will result in distorted results. 
 
-{{< ref "unit-01-thinking-sociologically-and.md" >}}
+
 
 ----
 
