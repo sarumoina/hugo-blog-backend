@@ -1,0 +1,15 @@
+{{ define "main" }}
+<span class="title is-size-5">Categories:</span>
+
+{{ range .Pages.ByPublishDate.Reverse }}
+
+
+<ul>
+    <li class="mt-5">
+        <span class="is-size-5"><a class="is-size-5" href="{{ .RelPermalink }}">{{ .Title }}</a></span>
+        <p>{{ .Summary }}</p>
+    </li>
+</ul>
+
+{{ end }}
+{{ end }}

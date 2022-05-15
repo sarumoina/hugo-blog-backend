@@ -1,0 +1,13 @@
+{{ define "main" }}
+<span class="is-size-5 title">Collection: {{ .Title }}</span>
+{{ range.Data.Pages }}
+
+<ul>
+    <li class="mt-5">
+        <a class="is-size-6" href="{{ .RelPermalink }}">{{ .Title }}</a>
+       
+    </li>
+</ul>
+
+{{ end }}
+{{ end }}
