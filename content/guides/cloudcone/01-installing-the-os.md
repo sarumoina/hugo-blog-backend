@@ -1,5 +1,5 @@
 ---
-title: "01 Installing the OS"
+title: "01. Installing the OS"
 date: 2022-05-16T13:06:50+05:30
 draft: false
 tags: ['guides', 'cloudcone']
