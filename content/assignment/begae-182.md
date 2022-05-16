@@ -1,5 +1,5 @@
 ---
-title: "BEGAE 182"
+title: "BEGAE 182 Assignment"
 date: 2022-05-15T20:23:00+05:30
 draft: false
 tags: ['assignment']
