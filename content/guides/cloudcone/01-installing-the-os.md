@@ -7,9 +7,9 @@ tags: ['guides', 'cloudcone']
 
 **Table of Content:**
 
-- [installing the os](#installing-the-os)
-- [Login to the server](#login-to-the-server)
-- [Changing Date & time](#changing-datetime)
+- [Installing the OS](#installing-the-os)
+- [Login to the server:](#login-to-the-server)
+- [Changing date/time](#changing-datetime)
 
 #### Installing the OS
 
@@ -67,3 +67,4 @@ If you want to get a list of time-zones available, you can use the following:
     $ timedatectl list-timezones
 
 You can also use `grep` in order to narrow it down such as `$ timedatectl list-timezones | grep Asia/Kolkata`
+
