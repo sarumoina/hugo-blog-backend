@@ -120,7 +120,8 @@ Since there are different social system with different structure and complexity,
 
 ----
 
-<span class="tag is-medium is-primary is-light">[Download IGNOU Unit 01 study material](\assets\study\bsoc-101\unit-1.pdf)</span>
+<span class="tag is-medium is-primary is-light">[Download IGNOU Unit 01 study material](https://drive.google.com/file/d/1doamgphYON0MPAwnQu_JKKaD3kkVXwSR/view?usp=sharing)</span>
+
 
 _Footnotes:_
 
