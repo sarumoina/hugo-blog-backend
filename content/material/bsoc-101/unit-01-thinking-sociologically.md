@@ -120,7 +120,12 @@ Since there are different social system with different structure and complexity,
 
 ----
 
-<span class="tag is-medium is-primary is-light">[Download IGNOU Unit 01 study material](https://drive.google.com/file/d/1doamgphYON0MPAwnQu_JKKaD3kkVXwSR/view?usp=sharing)</span>
+
+[**IGNOU Unit 01 study material {{< rawhtml>}}
+<ion-icon name="download-outline"></ion-icon>
+{{< /rawhtml >}}**](https://drive.google.com/file/d/1IOcTlDf6KIqtbbEPapDI65o29-H44SEn/view?usp=sharing)
+
+
 
 
 _Footnotes:_

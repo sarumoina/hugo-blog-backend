@@ -92,10 +92,13 @@ The precursors that lead to formulation of sociological theories occured in main
 - **The Philosophy of history** was the intial precurosr which helped in shaping up the sociological theories. People started to accept that, a society progress in certain stages or patterns and since, such patterns exist in terms of evolution of a scoeity, one can too study sociology in the scientific manner and various laws regarding society can be formulated. 
 - **The emergence of quantitative method of social survey** The implementation of social surveys has lead to recognizing the problems on society based upon multiple factors and thus formulated a way in which, a quantitative study can be made even in case of society. Thus, both these two helped in realizing the fact that society as an entity can be studied in a manner which is governed by laws, theories, postulates etc. 
 
+----
+
+[**IGNOU Unit 02 study material {{< rawhtml>}}
+<ion-icon name="download-outline"></ion-icon>
+{{< /rawhtml >}}**](https://drive.google.com/file/d/1LnC05T-AHMCWPHgrDPh5DuwSrKNpmPIE/view?usp=sharing)
 
 
 
-
-<span class="tag is-medium is-primary is-light">[Download IGNOU Unit 02 study material](\assets\study\bsoc-101\unit-2.pdf)</span>
 
 

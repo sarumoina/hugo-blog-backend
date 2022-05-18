@@ -5,3 +5,8 @@ draft: false
 tags: ['study','BSOC-101']
 ---
 
+----
+
+[**IGNOU Unit 07 study material {{< rawhtml>}}
+<ion-icon name="download-outline"></ion-icon>
+{{< /rawhtml >}}**](https://drive.google.com/file/d/1e6i4mFGi8-3Gl4zk-N9q9tspPl8IIraq/view?usp=sharing)
