@@ -3,6 +3,7 @@ title: "Gemeinschaft and Gesellschaft"
 date: 2022-05-16T11:21:23+05:30
 draft: false
 tags: ['concept']
+description: Gemeinschaft and Gesellschaft are German words that mean community and society respectively. Introduced in classical social theory, they are used to discuss the different kinds of social ties that exist in small, rural, traditional societies versus large-scale, modern, industrial ones.
 ---
 
 **Table of Content:**

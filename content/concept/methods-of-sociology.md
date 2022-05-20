@@ -3,6 +3,7 @@ title: "Methods of Sociology"
 date: 2022-05-16T10:25:45+05:30
 draft: false
 tags: ["concept"]
+description: Explanation of different methods of sociology such as comparative, historical, statistical methods etc.
 ---
 
 **Table of content:**
