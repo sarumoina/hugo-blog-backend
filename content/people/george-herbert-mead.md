@@ -3,6 +3,7 @@ title: "George Herbert Mead"
 date: 2022-05-15T16:28:17+05:30
 draft: false
 tags: ["people"]
+description: "George Herbert Mead was an American philosopher, sociologist, and psychologist, primarily affiliated with the University of Chicago, where he was one of several distinguished pragmatists"
 ---
 
 

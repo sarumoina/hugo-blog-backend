@@ -3,6 +3,7 @@ title: "Herbert Spencer"
 date: 2022-05-15T16:19:06+05:30
 draft: false
 tags: ["people"]
+description: "British philosopher and sociologist, Herbert Spencer was a major figure in the intellectual life of the Victorian era."
 ---
 
 

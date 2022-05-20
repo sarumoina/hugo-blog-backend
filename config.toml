@@ -22,3 +22,6 @@ publishDir = "/home/i/srv/hugo-blog-output"
     pre = "tag"
     url = "/tags/"
     weight = 3
+
+[params]
+  Descrption = "blog.endr.in is created with a view to keep my notes of various subjects in a personal server so that I can refer it to later on. The content here is aggregated from various sources and is used for educational purpose."

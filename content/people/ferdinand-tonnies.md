@@ -3,6 +3,7 @@ title: "Ferdinand Tonnies"
 date: 2022-05-15T16:27:25+05:30
 draft: false
 tags: ["people"]
+description: "Ferdinand Tönnies (1855-1936) was a German sociologist. He was a major contributor to sociological theory and field studies."
 ---
 
 

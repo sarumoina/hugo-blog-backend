@@ -2,7 +2,8 @@
 title: "Talcott Parsons"
 date: 2022-05-16T17:46:16+05:30
 draft: false
-tags: ['study', 'people']
+tags: ['people']
+description: He was one of the most influential Sociologists during his time. He was welcomed into this world on 13th December 1902 and passed away on 8th May 1979.
 ---
 
 **Table of Content:**

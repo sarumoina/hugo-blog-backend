@@ -3,6 +3,7 @@ title: "Emile Durkheim"
 date: 2022-05-15T16:16:53+05:30
 draft: false
 tags: ["people"]
+description: "Émile Durkheim was a French sociologist who rose to prominence in the late 19th and early 20th centuries. Along with Karl Marx and Max Weber, he is credited as being one of the principal founders of modern sociology."
 ---
 
 

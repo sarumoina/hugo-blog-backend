@@ -3,6 +3,7 @@ title: "Claude Henri De Rouvroy De Saint Simon"
 date: 2022-05-15T16:26:20+05:30
 draft: false
 tags: ["people"]
+description: "Nobleman of the ancien regime, real estate speculator, 'utopian' socialist and theorizer of the bureaucratic state"
 ---
 
 Nobleman of the ancien regime, real estate speculator, "utopian" socialist and theorizer of the bureaucratic state -- all of these descriptors can apply to Claude Henri de Rouvroy de Saint-Simon. In many ways a fitting embodiment of the spirit of the Super-Enlightenment collection, his thought and life bridge temporally, spiritually and intellectually the 18th and 19th centuries. In the span of his career he moved from active support of the anti-clerical French Revolution of 1789, to vociferous criticism of the resurgent Restoration Church to advocacy of his own renewal of Christianity in Nouveau Christianisme (1825). In his economic beliefs he traversed the apparent divide between the "rationalist" 18th century and the "romantic" 19th century. Thus the early 19th century found him publicizing the liberal economics of the haute bourgeoisie, and the end of his life proposing a centralized economy that aimed to satisfy the needs of all members of society, especially the "poorest and most numerous," denouncing all inherited wealth along the way. His legacy was ultimately ensured by the Saint Simonians, led by Prosper Enfantin, who took inspiration from his work and went in directions he would not have recognized.

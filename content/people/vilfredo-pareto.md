@@ -3,6 +3,8 @@ title: "Vilfredo Pareto"
 date: 2022-05-15T16:30:39+05:30
 draft: false
 tags: ["people"]
+description: Vilfredo Pareto, (born July 15, 1848, Paris, France—died August 19, 1923, Geneva, Switzerland), Italian economist and sociologist who is known for his theory on mass and elite interaction as well as for his application of mathematics to economic analysis.
+
 ---
 
 **Works:**

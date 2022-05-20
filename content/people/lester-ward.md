@@ -3,6 +3,7 @@ title: "Lester F. Ward"
 date: 2022-05-15T16:22:45+05:30
 draft: false
 tags: ["people"]
+description: "Lester Frank Ward (1841-1913), was called the 'father of American sociology' He has wrote many books which are milstones in sociology."
 ---
 
 Lester Frank Ward (1841-1913), called the “father of American sociology,” was born in Joliet, Illinois, on June 18, 1841, the youngest of ten children. He moved with his parents to Iowa in 1855, but returned to Illinois two years later after the death of his father. He attended a newly opened grammar school in St. Charles, and augmented his education by reading whatever came to hand, notably blood-curdling fiction. His first published story, written at the age of sixteen, was “The Spaniard’s Revenge,” which appeared in the St. Charles Argus in the spring of 1858. That year he moved to Myersburg, Pennsylvania, where he worked for his brother in the not very successful business of manufacturing wagon hubs. Lester turned to teaching school and studied at Susquehanna Collegiate Institute at Towanda from January 1861 to June 1862. He enlisted in the Union army in August 1862, only a few days after his secret marriage to Elisabeth Vought. He was wounded at Chancellorsville and discharged in November 1864. His situation at that time is summed up in his letter of February 8, 1865, to Abraham Lincoln, seeking support in his application for employment:

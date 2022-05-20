@@ -3,6 +3,7 @@ title: "BSOC-101: Unit 02 Emergence of Sociology and Social Anthropology"
 date: 2022-05-14T17:07:08+05:30
 draft: false
 tags: ["Study", "BSOC-101"]
+description: "Emergence of Sociology with elements from enlighten period, french revolution, industrial revolution and its impact."
 ---
 
 **Table of Contents:**

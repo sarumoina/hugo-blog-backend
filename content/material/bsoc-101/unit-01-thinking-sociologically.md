@@ -3,6 +3,7 @@ title: "BSOC-101: Unit 01 Thinking Sociologically"
 date: 2022-05-04
 draft: false
 tags: ["study", "bsoc-101"]
+description: "Article on what is meant as a sociological perspective and How do sociologists observe and interpret the realities of everyday life"
 ---
 
 #### Objectives

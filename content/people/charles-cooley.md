@@ -3,6 +3,7 @@ title: "Charles Cooley"
 date: 2022-05-15T16:25:03+05:30
 draft: false
 tags: ["people"]
+description: "Charles Cooley (1864-1929) is best known for his concept of the looking-glass self, which is the concept that a person's self grows out of society's interpersonal interactions and the perceptions of others."
 ---
 
 

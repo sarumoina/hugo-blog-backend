@@ -3,6 +3,7 @@ title: "George Simmel"
 date: 2022-05-15T16:29:23+05:30
 draft: false
 tags: ["people"]
+description: "German philosopher and sociologist, Georg Simmel (1858-1918) is frequently cited as one of the founders of sociology. "
 ---
 
 A German philosopher and sociologist, Georg Simmel (1858-1918) is frequently cited as one of the founders of sociology. His work is at times impressionistic, covering a wide range of issues and ideas. His most consistent and rigorous development of a sociology is known as formal sociology. In it he studies the forms that govern diverse social relationships (such as triadic and dyadic relationships, or relationships of superordination and subordination). The study of forms extends to the examination of various types or roles under which humans are labelled and organise their actions (such as the stranger, the adventurer, the miser, the prostitute) and looks at diverse phenomena of contemporary social life, including fashion (Simmel 1957), the city (Simmel 1950b) and sexuality (Oakes 1984). Because many of his finest and most insightful writings are in essay form, rather than in the form of extended and rigorously defended treatises, his foundational position is more contested than that of Marx, Weber or Durkheim. Simmel has, however, much to offer, particularly in understanding the experience of the individual in contemporary society.
