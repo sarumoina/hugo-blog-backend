@@ -1,8 +1,10 @@
 shopt -s extglob
-
 cd /home/i/srv/hugo-blog-output
-
 rm -rf !(.git)
+
+
+
+
 
 hugo
 
