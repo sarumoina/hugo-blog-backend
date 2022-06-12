@@ -1,0 +1,13 @@
+{{ define "main" }}
+<h3>Collection: {{ .Title }}</h3>
+{{ range sort .Data.Pages "Name" }}
+
+<ul>
+    <li>
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+       
+    </li>
+</ul>
+
+{{ end }}
+{{ end }}

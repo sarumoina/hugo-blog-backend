@@ -13,11 +13,14 @@ description: "Emergence of Sociology with elements from enlighten period, french
 - [French Revolution](#french-revolution)
 - [Industrial revolution](#industrial-revolution)
   - [Impact of industrial revolution on society](#impact-of-industrial-revolution-on-society)
-- [The emergence of sociological thory:](#the-emergence-of-sociological-thory)
+- [The emergence of sociological thory](#the-emergence-of-sociological-thory)
+- [Emergence of Modern Social Anthropology](#emergence-of-modern-social-anthropology)
+  - [Impact of associations in the aspect of emergence of social anthropology](#impact-of-associations-in-the-aspect-of-emergence-of-social-anthropology)
+- [Pioneers of Social Anthropology](#pioneers-of-social-anthropology)
 
 Sociology and social anthropology, though have come from different roots, both the subjects are very much interrelated as discipline. As academic discipline, both have emerged only in 19th century though without any demarcation, both the discipline existed in early centuries also. 
 
-#### Emergence of Sociology
+### Emergence of Sociology
 
 he emergence of sociology could be attributed to changes that occurred in the western world during the 18<sup>th</sup> and 19<sup>th</sup> century where new scientific discovery and methodology has enabled the people to systematize and structure the physical in a more orderly manner which has led to requirement of realization of society as an entity and the role of individuals in the system. As science began to advance more rapidly, different approaches are started to appear in order to use these methods in the subject of human society which was pioneered by researchers such as Come, Durkheim etc. 
 
@@ -25,7 +28,7 @@ The industrial revolution has changed society from small scale home based produc
 
 But these changes had both positive and negative aspects along with it. Since, it was the time when science was the driving force, it took people away from the dark ages and tried to teach people to think in a more logical manner. But as it was still in the early stat of the changes, it was chaotic/unorganized. None the less, due to these changes that have occurred in the 18th-19th century, Sociology as a distinct discipline came to existence. 
 
-#### The Enlighten period/Age of Reasons
+### The Enlighten period/Age of Reasons
 
 During the 18th century, due to advancement of science, there brought changes of how people think which has paved the path for the enlighten period or the age of reasons. The existing beliefs were replaces by new ones which were based upon logic and reasons. Most prominent thinkers in this period are – 
 
@@ -34,13 +37,13 @@ During the 18th century, due to advancement of science, there brought changes of
 
 This period shifted the society from values that were deemed to integrate to be tempered with and brought a new world of different values. Individuals started to believe in more rational and logical thoughts. As the wave of rational thoughts came in to play, nothing has become infallible and every entity became susceptible to criticism according to the new standard that this era has brought. Thus human started to realize their infinite potential which was later translated in to industrial revolution which marked a significant millstone in human history. 
 
-#### The Scientific revolution
+### The Scientific revolution
 
 The Scientific revolution is marked by *a new attitude towards man and nature*. During this time, people started to look at natural objects in a more observed manner and started various experimentation in order to understand various phenomenon in a better way. For example, Copernican revolution has lead to shift from *geocentric* model where the field of astronomy centered around earth into *heliocentric* model where Sun takes the center place. The discovery of gravitational force by Isac Newton was another milestone that was achieved during this era which has brought another dimension in the world of physics. Though, it was Darwins *theory of evolution* which has challenged the age old belief of biblical theory of genesis. During this era, people started to question the old idologies and started to use reason/logic in order to understand their surrounding whether it was an animate or inanimate entitiy. 
 
 This has also lead to urgency of using scientifc method in order to understand the human society. Hence, though it wasn't regarded as acedmic discpline at that time, sociology already came in to existence. 
 
-#### French Revolution
+### French Revolution
 
 The French Revolution (1789) has brought the concepts of 
 
@@ -68,7 +71,7 @@ Hence, they tried to find new bases based upon the new ideas that has been broug
 - [Durkheim]({{< ref "emile-durkheim.md" >}})
 - [Parsons]({{< ref "talcott-parsons.md" >}})
 
-#### Industrial revolution
+### Industrial revolution
 
 The industrial revolution refers to not a single event rather it is a set of chained events that have propelled various western societies to move from agrarian society to a industrial one which not only left its impact on the field of production rather, the effects could be seen in all facets of life including that of political, social, economical etc. The industrial revolution began around the year **1760 A.D.** in England after which, over passing of time, it spread across the whole Europe. During this revolution, new tools and techniques were invented which could produce goods on a large scale. For example, 
 
@@ -77,7 +80,7 @@ The industrial revolution refers to not a single event rather it is a set of cha
 
 All these inventions brought the age old micro production environment in to a macro industrial production which also brought changes to social life, financial stability along with urbanization of the people. Hence, the **feudal system** has started to get replaced by **capitalists system**
 
-##### Impact of industrial revolution on society
+#### Impact of industrial revolution on society
 
 There are various impacts of industrial revolution that can be seen in every aspect of a society. For example, 
 
@@ -86,12 +89,42 @@ There are various impacts of industrial revolution that can be seen in every asp
 - **Rise of population/Urbanization:** With increase in production, the population also started to increase. People from rural areas moved to the towns/cities in search of jobs in those industries. New cities started to grow since more and more industries are built. 
 - **Concerns from conservative and radical thinkers:** The conservatives feared that these changes brought upon by the industrial revolution would bring chaos and disorder. 
 
-#### The emergence of sociological thory:
+### The emergence of sociological thory
 
 The precursors that lead to formulation of sociological theories occured in mainly two stages. 
 
 - **The Philosophy of history** was the intial precurosr which helped in shaping up the sociological theories. People started to accept that, a society progress in certain stages or patterns and since, such patterns exist in terms of evolution of a scoeity, one can too study sociology in the scientific manner and various laws regarding society can be formulated. 
 - **The emergence of quantitative method of social survey** The implementation of social surveys has lead to recognizing the problems on society based upon multiple factors and thus formulated a way in which, a quantitative study can be made even in case of society. Thus, both these two helped in realizing the fact that society as an entity can be studied in a manner which is governed by laws, theories, postulates etc. 
+
+### Emergence of Modern Social Anthropology
+
+There are few pioneers who paved the way towards emergence of modern social anthropology. 
+
+- [**Bronislaw Malinowski**]({{< ref "bronislaw-malinowski.md" >}}) - Regarded as **Founder of modern social anthropology** He introduced ethnographic method with participant method and/or technique. 
+- [**A.R. Radcliff-Brown**]({{<  ref "a-r-redcliff-brown.md" >}}) - well known for theoritical approach a.k.a **structural functionalism** 
+- [**Marcel Mauss**]({{< ref "marcel-mauss.md" >}}) - well-known for his **comparative study** of the relation between forms of exchange and social structure. Founder of modern social anthropology in France. 
+
+#### Impact of associations in the aspect of emergence of social anthropology
+
+Outside India, 
+
+- **The aborigines protection society** (1837) was the first anthropological association. 
+- **The American Anthropological Association** was established in 1902.
+- **The American Association for the Advancement of Science** recognized ethnology in 1851
+- **British Association for the Advancement of Science** recgonized Anthropology in 1846. 
+- **Anthropological society of london** came to existence in 1863.
+
+In India, 
+- **Asiatic Society of Bengal** was founded in 1774.
+- **The Anthropological Society of Bombay** was established in 1886
+
+But these societies in India were not organized and didn't have much impact. 
+
+### Pioneers of Social Anthropology
+
+- [Lewis Henry Morgan]({{< ref "lewis-henry-morgan.md" >}}): Contributed via the study of kinship system from which he developed the evolutionary stages of the society. 
+- [John Ferguson Mclennan]({{< ref "john-ferguson-mclennan.md" >}}): Study of customs based on marriage systems in the pre - literate society. He wrote **Primitive Marriage: An Enquiry into the Origin of the Form of Capture in Marriage Ceremonies (1865)** He coined the term *exogamy* and *endogamy* 
+
 
 ----
 

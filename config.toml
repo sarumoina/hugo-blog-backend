@@ -2,7 +2,7 @@ baseURL = 'https://blog.endr.in/'
 languageCode = 'en-us'
 title = 'endr.in'
 
-theme = "bulma"
+theme = "pico"
 
 publishDir = "/home/i/srv/hugo-blog-output"
 

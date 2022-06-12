@@ -1,0 +1,12 @@
+{{ define "main" }}
+
+
+
+{{ range .Pages.ByTitle }}
+
+    <h5><a href="{{ .RelPermalink }}">{{ .Title }}</a></h5><p>{{ .Summary }}</p><hr />
+
+{{ end }}
+
+
+{{ end }}
