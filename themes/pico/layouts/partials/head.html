@@ -7,4 +7,5 @@
     {{ if .IsHome }}{{ $title = .Site.Title }}{{ end }}
     <title>{{ $title }}</title>
     <meta name="description" content="{{if .Params.Description}}{{ .Params.Description }}{{ else }} No information available {{end}}">
+    <link rel="stylesheet" href="https://unpkg.com/@tabler/icons@latest/iconfont/tabler-icons.min.css">
 </head>
